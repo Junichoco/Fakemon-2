@@ -1,0 +1,23 @@
+.title-image{
+    width:300px;
+}
+.header-text{
+
+}
+.fakemon-img{
+    width:300px;
+/* max-height: 300px;
+max-width: 300px; */
+line-height: 500px;
+
+}
+.fakemon-img img{
+    vertical-align: middle;
+}
+.feature-title{
+    line-height: 50px;
+    vertical-align: bottom;
+}
+.feature-box{
+ /* line-height: 500px; */
+}
